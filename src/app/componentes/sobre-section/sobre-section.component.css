@@ -1,0 +1,31 @@
+#sobre-section {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* Organiza os itens em uma coluna */
+  justify-content: center; /* Alinha os itens horizontalmente ao centro */
+  align-items: center; /* Alinha os itens verticalmente ao centro */
+  text-align: center; /* Centraliza o texto dentro dos elementos */
+  
+  
+}
+
+.titulo-sobre {
+  display: block;
+  margin-bottom: 10px; /* Adiciona margem abaixo do título */
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 24px;
+}
+
+.texto-sobre {
+  display: block;
+  font-family: Arial, sans-serif; /* Escolha uma fonte legível */
+  font-size: 18px; /* Tamanho de fonte adequado */
+  line-height: 1.7; /* Espaçamento entre linhas */
+  margin: 10px 0; /* Margem superior e inferior */
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}

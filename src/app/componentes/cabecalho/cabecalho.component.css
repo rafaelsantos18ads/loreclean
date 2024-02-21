@@ -1,0 +1,32 @@
+.cabecalho{
+    width: 100vw;
+    height: 85.65px;
+    background-color: #E1DBCF;
+    display: flex;
+    align-items: center;
+    font-size: 24px;  
+}
+
+.img-cabecalho{
+    width: 70px;
+    height: 70px;
+}
+
+.lista-cabecalho{
+    display: flex;
+    padding-left: 350px;
+}
+
+.lista-cabecalho ul{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.lista-cabecalho li {
+    cursor: pointer;
+}
+
+
+
+
